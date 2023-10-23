@@ -154,7 +154,7 @@ function! iceberg#palette#dark#create() abort
   let c.pale = 252
 
   " normal
-  let c.normal_bg = 234
+  let c.normal_bg = 235
   let c.normal_fg = 252
 
   " tint

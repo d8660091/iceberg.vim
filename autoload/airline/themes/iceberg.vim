@@ -17,14 +17,14 @@ function! s:build_palette() abort
   else
     let col_base     = ['#3e445e', '#0f1117', 238, 233]
     let col_edge     = ['#17171b', '#818596', 234, 245]
-    let col_error    = ['#161821', '#e27878', 234, 203]
+    let col_error    = ['#161821', '#e27878', 235, 203]
     let col_gradient = ['#6b7089', '#2e313f', 242, 236]
     let col_nc       = ['#3e445e', '#0f1117', 238, 233]
-    let col_warning  = ['#161821', '#e2a478', 234, 216]
-    let col_insert   = ['#161821', '#84a0c6', 234, 110]
-    let col_replace  = ['#161821', '#e2a478', 234, 216]
-    let col_visual   = ['#161821', '#b4be82', 234, 150]
-    let col_red      = ['#e27878', '#161821', 203, 234]
+    let col_warning  = ['#161821', '#e2a478', 235, 216]
+    let col_insert   = ['#161821', '#84a0c6', 235, 110]
+    let col_replace  = ['#161821', '#e2a478', 235, 216]
+    let col_visual   = ['#161821', '#b4be82', 235, 150]
+    let col_red      = ['#e27878', '#161821', 203, 235]
   endif
 
   let p = {}
